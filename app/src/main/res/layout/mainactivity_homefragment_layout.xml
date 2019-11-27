@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.HomeFragment"
+    android:id="@+id/fragment_home">
+
+    <!-- TODO: Update blank fragment layout -->
+<!--
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/home_edit_routine_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="end|bottom"
+        android:layout_marginBottom="40dp"
+        android:layout_marginEnd="40dp"
+        android:tint="@color/colorBackground"
+        android:backgroundTint="@color/colorPrimary"
+        app:srcCompat="@drawable/ic_edit_white_24dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/home_delete_routine_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/home_edit_routine_fab"
+        android:layout_alignStart="@+id/home_edit_routine_fab"
+        android:layout_marginBottom="15dp"
+        android:tint="@color/colorBackground"
+        android:backgroundTint="@color/colorPrimary"
+        android:src="@drawable/ic_delete_white_24dp" />
+
+
+    <Spinner
+        android:id="@+id/home_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp" />
+
+
+
+    &lt;!&ndash;
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/linearlayout"
+            android:gravity="right">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_add_new_routine"
+                android:gravity="center"
+                android:layout_alignParentEnd="true"
+                android:id="@+id/textview"
+                android:background="?attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                />
+
+        </RelativeLayout>&ndash;&gt;
+
+
+
+
+
+    <View
+        android:id="@+id/home_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_below="@id/home_spinner"/>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/home_horizontal"
+        android:layout_centerHorizontal="true">
+
+
+        <GridLayout
+            android:columnCount="2"
+            android:alignmentMode="alignMargins"
+            android:columnOrderPreserved="false"
+            android:layout_weight="8"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="5dp"
+            android:id="@+id/home_grid">
+
+        </GridLayout>
+    </ScrollView>
+
+-->
+
+
+</FrameLayout>

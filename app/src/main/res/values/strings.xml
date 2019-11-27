@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Workout Companion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_format_for_saved_Routines">yyyy-MM-dd-HH-mm-ss</string>
+    <string name="date_format_for_last_used_workout">MMM dd YYYY</string>
+    <string name="date_format_for_last_used_routine">MMM dd YYYY</string>
+
+    <string-array name="planets_array">
+        <item>Choose a Routine</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Papiez</item>
+    </string-array>
+    <string name="title_activity_Routine">Routine</string>
+
+    <string name="delete">Delete</string>
+    <string name="editName">Edit name</string>
+    <string name="cancel">Cancel</string>
+    <string name="deleteRoutineConfirmationText">Delete "%1$s"?</string>
+    <string name="save">Save</string>
+    <string name="routineName">Routine name</string>
+    <string name = "addNewRoutine">Add new routine</string>
+    <string name = "createWorkout_menu_finishWorkout">Finish workout creation</string>
+    <string name = "edit">Edit</string>
+
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_routine_list_routine"
+    app:cardUseCompatPadding="true"
+    android:layout_marginHorizontal="5dp"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id = "@+id/fragment_routine_list_routine_routine_name"
+            android:padding="10dp"
+            android:paddingBottom="0dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:id="@+id/fragment_routine_list_routine_routine_last_used_date"
+            android:padding = "10dp"
+            android:paddingTop="0dp"/>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

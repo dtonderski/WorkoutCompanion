@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#B30000</color>
+    <color name="colorPrimaryDarkest">#680000</color>
+    <color name="colorPrimaryBright">#FF4848</color>
+    <color name="colorPrimaryBrightest">#FFB3B3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFFFFF</color>
+
+    <color name="deleteColor">#FF0000</color>
+</resources>
