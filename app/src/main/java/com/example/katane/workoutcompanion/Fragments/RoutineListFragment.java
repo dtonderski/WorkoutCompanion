@@ -46,9 +46,10 @@ public class RoutineListFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
+        createTestRoutines();
+
 
         LinearLayout view = (LinearLayout) inflater.inflate(R.layout.mainactivity_routinelistfragment_layout, container, false);
-        createTestRoutines();
 
         /*Tries to populate the view with routines*/
         try {

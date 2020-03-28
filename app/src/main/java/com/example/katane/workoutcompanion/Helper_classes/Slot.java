@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Slot implements Serializable{
 
-    /** A Slot can contain a list of slots XOR an exercise */
+    /** A Slot can contain either a list of slots or an exercise */
 
     private ArrayList<Slot> listOfSlots = new ArrayList<>();
     private Exercise exercise;
